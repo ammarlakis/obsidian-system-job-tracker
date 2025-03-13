@@ -27,10 +27,10 @@ Alternatively, download the ZIP and extract it.
 
 ### 4. Install Required Plugins
 Go to **Settings → Community Plugins** and enable:
-- **Charts** by phirb0
-- **Dataview** by Michael Brenan (Enable JavaScript Queries)
-- **Modal Forms** by Danielo Rodriguez
-- **QuickAdd** by Christian B. B. Houmann
+- [**Charts**](https://github.com/phibr0/obsidian-charts)
+- [**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
+- [**Modal Forms**](https://github.com/danielo515/obsidian-modal-form)
+- [**QuickAdd**](https://github.com/chhoumann/quickadd)
 
 ## 📂 Project Structure
 

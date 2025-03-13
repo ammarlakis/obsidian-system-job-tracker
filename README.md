@@ -10,6 +10,11 @@ This is an **Obsidian** vault template designed for tracking job applications ef
 - **User-friendly Forms**: Modal-based forms for adding new job applications.
 - **QuickAdd Integration**: Jobs are pre-configured under **QuickAdd: Jobs**, allowing easy access via the command palette.
 
+
+Here's how it looks like
+
+![Obsidian Job Tracker Visualization](https://github.com/ammarlakis/obsidian-system-job-tracker/blob/master/demo.png?raw=true)
+
 ## 🛠 Installation
 ### 1. Install Obsidian
 Download and install **Obsidian** from [obsidian.md](https://obsidian.md).

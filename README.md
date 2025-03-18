@@ -79,17 +79,11 @@ Certain values can be customized in the **scripts** folder. Look for `TODO: Cust
 - Default field values (e.g., location, follow-up date)
 - Status options
 
----
-
 ## 🤝 Contributing
 Feel free to open an issue or submit a pull request to improve this project!
 
----
-
 ## 📜 License
 This project is licensed under the **MIT License**.
-
----
 
 ## 🫂 Support Me
 
